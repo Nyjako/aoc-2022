@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const winners = ["XC", "YA", "ZB"]
+const winners = ["XC", "YA", "ZB"];
 
 function score(p1, p2) {
 	you = p2[0];
